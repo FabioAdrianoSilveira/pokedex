@@ -23,7 +23,7 @@ Para rodar esse projeto basta abrir o arquivo **index.html** com o navegador de 
 
 ---
 
-## :tools: Ferramentas e tecnologias
+## :hammer_and_wrench: Ferramentas e tecnologias
 * HTML
 * CSS
 * JavaScript
