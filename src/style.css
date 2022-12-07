@@ -1,0 +1,23 @@
+body {
+	background: linear-gradient(to right, #92A9BD, #7C99AC);
+	color: white;
+	margin: 0;
+	font-family: rubik;
+}
+
+h1 {
+	text-align: center;
+	font-size: 54px;
+}
+
+section {
+    padding: 40px;
+	margin: 0 auto;
+}
+
+.pokedex {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+	grid-gap: 20px;
+	padding-inline-start: 0;
+}
