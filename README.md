@@ -1,7 +1,6 @@
 # Pokédex
 ![project status](https://img.shields.io/badge/development-complete-00FF00)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=FabioAdrianoSilveira.pokedex)
-![license](https://img.shields.io/badge/license-MIT-4B9081)
 
 Esse projeto simula uma pokédex dos jogos clássicos de GameBoy: Pokémon Red, Pokémon Blue e Pokémon Yellow. Seu objetivo é buscar informações dos primeiros 151 pokémon em uma API e exibir essas informações na tela.
 
