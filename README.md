@@ -33,7 +33,7 @@ Para rodar esse projeto basta abrir o arquivo **index.html** com o navegador de 
 
 * O HTML e o CSS desse projeto são baseados [nesse repositório](https://github.com/Roger-Melo/pokedex)
 * As informações dos pokémon são tiradas da [PokéAPI](https://pokeapi.co/)
-* OS sprites dos pokémon são tirados [desse repositório](https://github.com/RafaelSilva2k22/PokemonImages)
+* Os sprites dos pokémon são tirados [desse repositório](https://github.com/RafaelSilva2k22/PokemonImages)
 
 ---
 
