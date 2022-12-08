@@ -23,17 +23,17 @@ Para rodar esse projeto basta abrir o arquivo **index.html** com o navegador de 
 ---
 
 ## :hammer_and_wrench: Ferramentas e tecnologias
-* HTML
-* CSS
-* JavaScript
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ---
 
 ## :star: Créditos e inspirações
 
-* O HTML e o CSS desse projeto são baseados [nesse repositório](https://github.com/Roger-Melo/pokedex)
-* As informações dos pokémon são tiradas da [PokéAPI](https://pokeapi.co/)
-* Os sprites dos pokémon são tirados [desse repositório](https://github.com/RafaelSilva2k22/PokemonImages)
+* [Repositório usado como modelo para construção do HTML e do CSS](https://github.com/Roger-Melo/pokedex)
+* [Página oficial da API usada nesse projeto](https://pokeapi.co/)
+* [Repositório usado para obter os sprites dos pokémon](https://github.com/RafaelSilva2k22/PokemonImages)
 
 ---
 
