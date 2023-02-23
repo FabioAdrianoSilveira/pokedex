@@ -12,6 +12,7 @@ body {
 }
 
 h1 {
+  color: #222;
   text-align: center;
   font-size: 54px;
 }
@@ -60,7 +61,7 @@ h1 {
 
 .entry-type {
   margin-top: 5px;
-  color: #666;
+  color: #fff;
   font-weight: lighter;
   position: relative;
   z-index: 2;
@@ -114,6 +115,10 @@ h1 {
 
 .flying {
   background-color: #8fa8dd;
+}
+
+.ghost {
+  background-color: #5269ac;
 }
 
 .grass {
