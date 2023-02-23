@@ -24,66 +24,126 @@ h1 {
 }
 
 .entry {
-	list-style: none;
-	padding: 40px;
-	color: #222;
-	text-align: center;
-	border-radius: 20px;
-	position: relative;
+  list-style: none;
+  padding: 40px;
+  color: #222;
+  text-align: center;
+  border-radius: 20px;
+  position: relative;
 }
 
 .entry::after {
-	content: "";
+  content: "";
   display: block;
   width: 50%;
   height: 45%;
   border-radius: 100%;
   background-color: #fff;
-  opacity: .7;
+  opacity: 0.7;
   position: absolute;
   top: 15%;
   left: 25%;
 }
 
 .entry:hover {
-	animation: bounce 0.5s linear;
+  animation: bounce 0.5s linear;
 }
 
 .entry-name {
-	text-transform: capitalize;
-	margin-bottom: 0px;
-	font-size: 32px;
-	font-weight: normal;
-	position: relative;
-	z-index: 2;
+  text-transform: capitalize;
+  margin-bottom: 0px;
+  font-size: 32px;
+  font-weight: normal;
+  position: relative;
+  z-index: 2;
 }
 
 .entry-type {
-	margin-top: 5px;
-	color: #666;
-	font-weight: lighter;
-	position: relative;
-	z-index: 2;
+  margin-top: 5px;
+  color: #666;
+  font-weight: lighter;
+  position: relative;
+  z-index: 2;
 }
 
 .entry-image {
-	height: 180px;
-	position: relative;
-	z-index: 2;
+  height: 180px;
+  position: relative;
+  z-index: 2;
 }
 
 @keyframes bounce {
-	20% {
-			transform: translateY(-6px);
-	}
-	40% {
-			transform: translateY(0px);
-	}
+  20% {
+    transform: translateY(-6px);
+  }
+  40% {
+    transform: translateY(0px);
+  }
 
-	80% {
-			transform: translateY(-2px);
-	}
-	100% {
-			transform: translateY(0);
-	}
+  80% {
+    transform: translateY(-2px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+.bug {
+  background-color: #90c12c;
+}
+
+.dragon {
+  background-color: #0a6dc4;
+}
+
+.electric {
+  background-color: #f3d23b;
+}
+
+.fairy {
+  background-color: #ec8fe6;
+}
+
+.fighting {
+  background-color: #ce4069;
+}
+
+.fire {
+  background-color: #ff9c54;
+}
+
+.flying {
+  background-color: #8fa8dd;
+}
+
+.grass {
+  background-color: #63bb5b;
+}
+
+.ground {
+  background-color: #d97746;
+}
+
+.ice {
+  background-color: #74cec0;
+}
+
+.normal {
+  background-color: #9099a1;
+}
+
+.poison {
+  background-color: #ab6ac8;
+}
+
+.psychic {
+  background-color: #f97176;
+}
+
+.rock {
+  background-color: #c7b78b;
+}
+
+.water {
+  background-color: #4d90d5;
 }
