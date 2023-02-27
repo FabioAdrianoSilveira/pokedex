@@ -31,7 +31,7 @@ git clone https://github.com/FabioAdrianoSilveira/pokedex
 
 ---
 
-## :tools: Ferramentas e tecnologias
+## :hammer_and_pick: Ferramentas e tecnologias
 
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
